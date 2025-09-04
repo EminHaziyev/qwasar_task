@@ -1,0 +1,11 @@
+{
+    "root": {
+      "password": "root",
+      "permissions": ["upload" , "mkdir" , "delete", "terminal", "read", "download", "logs", "terminal","preview"]
+    },
+    "user": {
+      "password": "user",
+      "permissions": ["upload" , "mkdir", "read", "download", "preview"]
+    }
+}
+  
